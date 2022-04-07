@@ -3,7 +3,8 @@
 # Heading v1
 ## Heading v2
 [Link](google.com)
-![Image](https://images.pexels.com/photos/674010/pexels-photo-674010.jpeg?cs=srgb&dl=pexels-anjana-c-674010.jpg&fm=jpg)
+Lab Report 1](lab-report-1-week-2.html) 
+[Lab Report 1](https://<your-username>.github.io/<your-lab-reports-repo>/lab-report-1-week-2.html) 
 >BlockyQuote
 * List 1
 * List 2
