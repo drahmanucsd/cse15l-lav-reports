@@ -3,8 +3,9 @@ Dani Rahman
 ## Installing VScode:
 <p>
 Go to [VScode](https://code.visualstudio.com/) and use the download and instructions for ur computer.<br>
-At the end you should have something like this:</p>
+At the end you should have something like this:<br>
 ![Image](https://github.com/drahmanucsd/cse15l-lav-reports/blob/main/Images/Installing%20Vscode.png)
+ <\p>
 ## Remotely Connecting
 <p>
 First go make sure that you create a password for your remote server acc. at this [Link](https://sdacs.ucsd.edu/~icc/index.php)<br>
