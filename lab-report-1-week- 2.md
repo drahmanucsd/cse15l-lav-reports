@@ -22,6 +22,7 @@ Then ssh to the remote dir and create a .ssh folder using mkdir
 Then copy the pub key you made over to a folder authorized_keys inside .ssh on the remote server
 At the end should be able to log into ssh without password:
 ![Image](https://github.com/drahmanucsd/cse15l-lav-reports/blob/main/Images/ssh%20key.png)
-## Optimizing Remote Runnign
-![Image](https://github.com/drahmanucsd/cse15l-lav-reports/blob/main/Images/Optimizing.png)
+## Optimizing Remote Running
 Type the following commands inorder to copy compile and run a file on the remote server. Once typed use the up arrow key to reuse.
+![Image](https://github.com/drahmanucsd/cse15l-lav-reports/blob/main/Images/Optimizing.png)
+
