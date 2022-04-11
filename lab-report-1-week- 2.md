@@ -4,7 +4,9 @@ Dani Rahman
 
 Go to [VScode](https://code.visualstudio.com/) and use the download and instructions for ur computer.<br>
 At the end you should have something like this:
+<p>
 ![Image](https://github.com/drahmanucsd/cse15l-lav-reports/blob/main/Images/Installing%20Vscode.png)
+</p>
 ## Remotely Connecting
 First go make sure that you create a password for your remote server acc. at this [Link](https://sdacs.ucsd.edu/~icc/index.php)<br>
 Then type in ssh cs15l22???@ieng.ucsd.edu
