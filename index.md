@@ -4,7 +4,6 @@
 ## Heading v2
 [Link](google.com)
 [Lab Report 1](lab-report-1-week-2.md) 
-[Lab Report 1](https://drahmanucsd.github.io/cse15l-lav-reports/lab-report-1-week-2.html)
 >BlockyQuote
 * List 1
 * List 2
