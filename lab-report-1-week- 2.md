@@ -7,7 +7,7 @@ At the end you should have something like this:
 ![Image](https://github.com/drahmanucsd/cse15l-lav-reports/blob/main/Images/Installing%20Vscode.png?raw=true)
 ## Remotely Connecting
 First go make sure that you create a password for your remote server acc. at this [Link](https://sdacs.ucsd.edu/~icc/index.php)<br>
-Then type in ssh cs15l22???@ieng.ucsd.edu
+Then type in `ssh cs15l22???@ieng.ucsd.edu`
 ![Image](https://github.com/drahmanucsd/cse15l-lav-reports/blob/main/Images/RemoteConnecting.png?raw=true)
 ## Typing Some Commands
 Google some helpful commands such as cd and ls that you can use in the bash.<br>
