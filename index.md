@@ -5,7 +5,7 @@
 [Link](google.com)
 [Lab Report 1](https://drahmanucsd.github.io/cse15l-lav-reports/lab-report-1-week-%202.html)
 [Lab Report 2](https://drahmanucsd.github.io/cse15l-lav-reports/lab-report-2.md.html)  
-[Lab Report 2](https://drahmanucsd.github.io/cse15l-lav-reports/lab-report-3-week-6.md.html)  
+[Lab Report 2](https://drahmanucsd.github.io/cse15l-lav-reports/lab-report-3-week-6.html)  
 //https://github.com/drahmanucsd/cse15l-lav-reports/blob/main/lab-report-2.md
 
 >BlockyQuote
